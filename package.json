@@ -1,0 +1,20 @@
+{
+  "name": "notebackend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThistleFIN/fullstackopen2019---osa3---puhelinluettelo.git"
+  },
+  "author": "ThistleFIN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThistleFIN/fullstackopen2019---osa3---puhelinluettelo/issues"
+  },
+  "homepage": "https://github.com/ThistleFIN/fullstackopen2019---osa3---puhelinluettelo#readme"
+}
