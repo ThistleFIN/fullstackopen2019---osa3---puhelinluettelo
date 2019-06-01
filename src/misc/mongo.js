@@ -13,6 +13,7 @@ mongoose.connect(url, { useNewUrlParser: true })
   .catch((error) => {
     console.log('Ei onnistunut MongoDB:', error.message)
   })
+  
 const personSchema = new mongoose.Schema({
     name: String,
     number: String,
